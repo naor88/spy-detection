@@ -25,16 +25,16 @@ const classes = {
 };
 
 const avatars = [
-    `/static/images/avatar/1.png`,
-    `/static/images/avatar/2.png`,
-    `/static/images/avatar/3.png`,
-    `/static/images/avatar/4.png`,
-    `/static/images/avatar/5.png`,
-    `/static/images/avatar/6.png`,
-    `/static/images/avatar/7.png`,
-    `/static/images/avatar/8.png`,
-    `/static/images/avatar/9.png`,
-    `/static/images/avatar/10.png`,
+    `/static/images/avatar/1.jpg`,
+    `/static/images/avatar/2.jpg`,
+    `/static/images/avatar/3.jpg`,
+    `/static/images/avatar/4.jpg`,
+    `/static/images/avatar/5.jpg`,
+    `/static/images/avatar/6.jpg`,
+    `/static/images/avatar/7.jpg`,
+    `/static/images/avatar/8.jpg`,
+    `/static/images/avatar/9.jpg`,
+    `/static/images/avatar/10.jpg`,
 ];
 
 export default function TitlebarGridList(selectAvatarImage, closeModal) {

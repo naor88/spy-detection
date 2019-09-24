@@ -47,7 +47,7 @@ export default function CheckboxListSecondary(players) {
             <ListItemAvatar>
               <Avatar
                 alt={`Avatar n°${idx + 1}`}
-                src={ player.avatar ? player.avatar : `/static/images/avatar/1.png`} //{`logo192.png`}//
+                src={ player.avatar ? player.avatar : `/static/images/avatar/1.jpg`} //{`logo192.png`}//
               />
             </ListItemAvatar>
             <ListItemText id={labelId} primary={(player.name ? player.name : `Anonymous${player.id}`) + (player.admin ? ` (Admin)` : '')} />

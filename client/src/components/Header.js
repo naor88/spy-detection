@@ -33,11 +33,11 @@ export default function AppHeader() {
             {/* <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
               <MenuIcon />
             </IconButton> */}
-            <Avatar src={`/static/images/avatar/spy.png`} />
+            <Avatar src={`/static/images/spy.jpg`} />
             <Typography variant="h6" style={styles.title}>
             <p style={{textAlign:"center", margin:0}}>Spy Detection</p>
             </Typography>
-            <Avatar src={`/static/images/avatar/detective.png`} />
+            <Avatar src={`/static/images/detective.jpg`} />
             {/* <Button color="inherit">Login</Button> */}
           </Toolbar>
         </AppBar>
